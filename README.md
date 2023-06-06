@@ -77,9 +77,9 @@ npm run shards
 
 ## 💫 Deploy
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://replit.com/@LRMN/waifumusic?v=1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Deploy](https://www.herokucdn.com/deploy/button.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Run on Repl.it](https://repl.it/badge/github/lrmn7/WaifuMusic)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Run on Repl.it](https://repl.it/badge/github/WilardzySenpai/WaifuMusic)](https://replit.com/@LRMN/waifumusic)
 ![Run on Hop.io](https://res.cloudinary.com/lrmn/image/upload/c_scale,w_80/v1685977085/lzZYjpqm_400x400_kwtfxu.png)
 
 > NOTE: It is important to note that using this code to publish a bot publicly or advertising it without proper credit is strictly prohibited.
