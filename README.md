@@ -27,10 +27,10 @@ To run this correctly on your desktop/local device, please follow these steps.
 
 > To begin, obtain a copy of the code by either cloning it using Git or downloading the zip file.
 ```
-git clone https://github.com/lrmn7/WaifuMusic.git
+git clone https://github.com/lrmn7/WaifuMusic-bot-discord.git
 ```
 ```
-https://github.com/lrmn7/WaifuMusic/releases
+https://github.com/lrmn7/WaifuMusic-bot-discord/releases
 ```
 To proceed, after obtaining a copy of the code through cloning or downloading and unzipping the file, open the source code and enter the following command in your console.
 ```
